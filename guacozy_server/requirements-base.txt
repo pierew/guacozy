@@ -16,4 +16,4 @@ pyguacamole==0.9
 python-memcached==1.59
 pytz==2019.3
 rules==2.1
-sqlparse==0.3.0
+sqlparse==0.5.4
